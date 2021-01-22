@@ -4,6 +4,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc" alt="alanmartinc" /></a> </p>
 
+<p align="center">
+  <a href="https://instagram.com/amartinc"><img src="https://img.shields.io/instagram/follow/amartinc?style=social" /></a>
+  <a href="https://github.com/alanmartinc"><img src="https://img.shields.io/github/followers/alanmartinc?label=follow&style=social" /></a>
+</p>
+
 - 🔭 I’m currently working on [Technisys](https://technisys.com/?lang=es)
 
 - 📫 How to reach me **alancabot.ac@gmail.com**
