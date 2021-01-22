@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Cabot</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">UI Dev React en Technisys | Ingeniería en Informática - Stack MERN, HTML, CSS, JS. #UX/UI Designer #GraphicDesigner #WebDesigner</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc" alt="alanmartinc" /></a> </p>
 
