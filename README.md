@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Cabot</h1>
-<h3 align="center">UI Dev React en Technisys | Ingeniería en Informática</h3>
+<h3 align="center">UI Dev React en Technisys | Systems Engineering Student - UNDAV</h3>
 <h4 align="center">Stack MERN, HTML, CSS, JS.</h4>
 <h4 align="center">#UX/UI Designer #GraphicDesigner #WebDesigner</h4>
 
