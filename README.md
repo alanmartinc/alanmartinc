@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc" alt="alanmartinc" /></a> </p>
 
-- 🔭 I’m currently working on [Banco Macro](https://technisys.com/?lang=es)
+- 🔭 I’m currently working on [Technisys](https://technisys.com/?lang=es)
 
 - 📫 How to reach me **alancabot.ac@gmail.com**
 
