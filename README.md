@@ -5,7 +5,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc" alt="alanmartinc" /></a> </p>
 
 - 🔭 I’m currently working on [Technisys](https://technisys.com/?lang=es)
-- 🔭 I work in [Banco Macro](https://www.macro.com.ar/home-page) and [Banco de Córdoba](https://www.bancor.com.ar/718_APP/)
 
 - 📫 How to reach me **alancabot.ac@gmail.com**
 
