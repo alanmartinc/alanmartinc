@@ -20,5 +20,5 @@
 
 <p align="center">
   <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=alanmartinc&theme=nord&show_icons=true" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmartinc&layout=nord" align="top" height="150px" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmartinc&layout=compact" align="top" height="150px" width="45%" />
 </p>
