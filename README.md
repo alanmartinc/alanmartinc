@@ -1,12 +1,12 @@
+<p align="center">
+  <a href="https://github.com/alanmartinc"><img src="https://img.shields.io/github/followers/alanmartinc?label=follow&style=social" /></a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Alan Cabot</h1>
 <h3 align="center">UI Dev React en Technisys | Computer Engineering Student - UNDAV | Stack MERN</h3>
 <h3 align="center">#UX/UI Designer #GraphicDesigner #WebDesigner</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc" alt="alanmartinc" /></a> </p>
-
-<p align="center">
-  <a href="https://github.com/alanmartinc"><img src="https://img.shields.io/github/followers/alanmartinc?label=follow&style=social" /></a>
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc" alt="alanmartinc" /></a></p>
 
 - 🔭 I’m currently working on [Technisys](https://technisys.com/?lang=es)
 
