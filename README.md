@@ -5,7 +5,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc" alt="alanmartinc" /></a> </p>
 
 <p align="center">
-  <a href="https://instagram.com/amartinc"><img src="https://img.shields.io/instagram/follow/amartinc?style=social" /></a>
   <a href="https://github.com/alanmartinc"><img src="https://img.shields.io/github/followers/alanmartinc?label=follow&style=social" /></a>
 </p>
 
@@ -18,8 +17,6 @@
 <a href="https://linkedin.com/in/alan-cabot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alan-cabot" height="30" width="40" /></a>
 <a href="https://instagram.com/amartinc_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amartinc_" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanmartinc&show_icons=true&locale=en" alt="alanmartinc" /></p>
 
 <p align="center">
   <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=alanmartinc&show_icons=true&hide_border=false&title_color=555&text_color=777&icon_color=777&bg_color=fff" />  
