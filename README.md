@@ -22,3 +22,11 @@
   <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=alanmartinc&theme=nord&show_icons=true" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmartinc&layout=compact" align="top" height="150px" width="45%" />
 </p>
+
+<a href="https://github.com/alanmartinc/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.alanmartinc.vercel.app/api/top-langs/?username=alanmartinc&layout=compact&theme=nord" />
+</a>
+
+<a href="https://github.com/alanmartinc/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.alanmartinc.vercel.app/api/pin/?username=alanmartinc&repo=github-readme-stats&theme=nord" />
+</a>
