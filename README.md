@@ -10,7 +10,7 @@
 - 🎯 I’m currently working on [Technisys](https://technisys.com/?lang=es), in the [Banco Macro](https://www.macro.com.ar/home-page) and [Bancor](https://www.bancor.com.ar/718_APP/) projects.
 - ♨️ I’m currently learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>.
 - 📫 How to reach me **alancabot.ac@gmail.com** or **alancabot_96@outlook.com**
-- 📇 [Curriculum] (https://drive.google.com/file/d/1lo0r1oVLQ_IxqQxW5fuKoH5YDzJZyotx/view?usp=sharing)
+- 📇 [Curriculum](https://drive.google.com/file/d/1lo0r1oVLQ_IxqQxW5fuKoH5YDzJZyotx/view?usp=sharing)
 
 <details>
 	<summary>
