@@ -19,13 +19,24 @@
 
   <ul>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-DesarrolloWeb-Udemy-Ejercicios">---> Master en Desarrollo Web</a></h3></li>
-  <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-WebsFullStack-Udemy-Ejercicios">---> Master en Webs FullStack</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-WebsFullStack-Udemy-Ejercicios">---> Master en Webs FullStack</a></h3></li>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-JavaScript-Udemy-Ejercicios">---> Master en JavaScript</a></h3></li>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-CSS-Udemy-Ejercicios">---> Master en CSS</a></h3></li>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-PHP-Udemy-Ejercicios">---> Master en PHP</a></h3></li>
-  <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-Python-Udemy-Ejercicios">---> Master en Python</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-Python-Udemy-Ejercicios">---> Master en Python</a></h3></li>
   </ul>
 </details>  
+
+<details>
+	<summary>
+		<b>Projects React 🗂️</b>
+	</summary>
+
+  <ul>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Universidad_React_De_Cero_A_Master">---> Universidad React de Cero a Master</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/React_La_Guia_Completa">---> React la Guía Completa</a></h3></li>
+  </ul>
+</details> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
