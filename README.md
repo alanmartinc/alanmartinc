@@ -12,6 +12,8 @@
 - 📫 How to reach me **alancabot.ac@gmail.com** or **alancabot_96@outlook.com**
 - 📇 [Curriculum](https://drive.google.com/file/d/1lo0r1oVLQ_IxqQxW5fuKoH5YDzJZyotx/view?usp=sharing)
 
+---
+
 <details>
 	<summary>
 		<b>Projects Masters 🗂️</b>
@@ -51,6 +53,8 @@
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Escuela-JavaScript-Platzi">---> Escuela JavaScript</a></h3></li>
   </ul>
 </details>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
