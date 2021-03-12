@@ -11,7 +11,7 @@
 - 🎯 I’m currently working on [Technisys](https://technisys.com/?lang=es), in the [Banco Macro](https://www.macro.com.ar/home-page) and [Bancor](https://www.bancor.com.ar/718_APP/) projects.
 - 📫 How to reach me **alancabot.ac@gmail.com** or **alancabot_96@outlook.com**.
 - 📇 [Curriculum](https://drive.google.com/file/d/1S_k9f9qLl3nfzUFqQwf4igk2Frw_dIq0/view?usp=sharing)
-- 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/index.html)
+- 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/)
 
 ---
 
