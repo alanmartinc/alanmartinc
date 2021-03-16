@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/52534693?s=460&u=300bd3c8cdabf1ac97c33f988e819c123a50c5ea&v=4.png" />
+   <img align="center" width="200" src="https://i.pinimg.com/originals/c0/3d/fc/c03dfc81d7798acff5a8a165c739e5ed.png" />
    <h3 align="center">Hi 👋, I'm Alan Cabot 💻</h3>
 </p>
 
