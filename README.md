@@ -2,8 +2,22 @@
   <a href="https://github.com/alanmartinc"><img src="https://img.shields.io/github/followers/alanmartinc?label=follow&style=social" /></a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Alan Cabot</h1>
-<h3 align="center">Frontend Developer React en Technisys | Senior Technician in Web Design and Programming - Da Vinci | MERN - MEAN</h3>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://avatars.githubusercontent.com/u/52534693?s=460&u=300bd3c8cdabf1ac97c33f988e819c123a50c5ea&v=4.png" />
+   <h3 align="center">Hi 👋, I'm Alan Cabot 💻</h3>
+</p>
+
+<p align="center">Frontend Developer React en Technisys | Senior Technician in Web Design and Programming - Da Vinci | <strong>MERN - MEAN</strong>👇!</p>
+<p align="center">
+   <a href="https://linkedin.com/in/alan-cabot" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alan-cabot" height="28px" width="28px" />
+  </a>
+  <a href="https://www.instagram.com/martindev_/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="martindev_" height="28px" width="28px" />
+  </a>
+</p>
+
+<h3 align="center"></h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc&theme=nord" alt="alanmartinc" /></a></p>
 
@@ -56,12 +70,6 @@
 </details>
 
 ---
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alan-cabot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alan-cabot" height="30" width="40" /></a>
-<a href="https://www.instagram.com/martindev_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="martindev_" height="30" width="40" /></a>
-</p>
 
 <p align="center">
   <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=alanmartinc&theme=nord&show_icons=true" />  
