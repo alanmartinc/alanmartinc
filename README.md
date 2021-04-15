@@ -7,7 +7,15 @@
    <h3 align="center">Hi 👋, I'm Alan Cabot 💻</h3>
 </p>
 
-
+<p align="center">Frontend Developer React en Technisys <br> Senior Technician in Web Design and Programming - Da Vinci <br> <strong>MERN - MEAN</strong></p>
+<p align="center">
+   <a href="https://linkedin.com/in/alan-cabot" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alan-cabot" height="28px" width="28px" />
+  </a>
+  <a href="https://www.instagram.com/martindev_/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="martindev_" height="28px" width="28px" />
+  </a>
+</p>
 
 <h3 align="center"></h3>
 
