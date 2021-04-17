@@ -71,6 +71,8 @@
 
 ---
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc&theme=nord" alt="alanmartinc" /></a></p>
+
 <p align="center">
   <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=alanmartinc&theme=nord&show_icons=true" />  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmartinc&theme=nord&layout=compact" align="top" height="150px" width="45%" />
