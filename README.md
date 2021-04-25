@@ -60,7 +60,13 @@
 		<b>Projects JavaScript 🗂️</b>
 	</summary>
 
-  
+  <ul>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-JavaScript-FullStack-CodigoFacilito">---> Master en JavaScript FullStack</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/JavaScript-De-Cero-Hasta-Los-Detalles">---> JavaScript de cero hasta los detalles</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/JavaScript-NivelJunior">---> JavaScript nivel Jr</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/JavaScript-NivelSsr">---> JavaScript nivel Ssr</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Escuela-JavaScript-Platzi">---> Escuela JavaScript</a></h3></li>
+  </ul>
 </details>
 
 ---
