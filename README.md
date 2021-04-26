@@ -38,7 +38,8 @@
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-DesarrolloWeb-Udemy-Ejercicios">---> Master en Desarrollo Web</a></h3></li>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-WebsFullStack-Udemy-Ejercicios">---> Master en Webs FullStack</a></h3></li>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-JavaScript-Udemy-Ejercicios">---> Master en JavaScript</a></h3></li>
-    
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-CSS-Udemy-Ejercicios">---> Master en CSS</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-PHP-Udemy-Ejercicios">---> Master en PHP</a></h3></li>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-Python-Udemy-Ejercicios">---> Master en Python</a></h3></li>
   </ul>
 </details>  
