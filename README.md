@@ -7,7 +7,7 @@
    <h3 align="center">Hi 👋, I'm Alan Cabot 💻</h3>
 </p>
 
-<p align="center">Frontend Developer React en Technisys - Digital Banking <br> <strong>MERN - MEAN</strong></p>
+<p align="center">Frontend Developer React en Technisys - Digital Banking <br> <strong>MERN</strong></p>
 <p align="center">
    <a href="https://linkedin.com/in/alan-cabot" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alan-cabot" height="28px" width="28px" />
