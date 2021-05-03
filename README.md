@@ -9,7 +9,7 @@
 
 <p align="center">Frontend Developer React en Technisys - Digital Banking - <strong>MERN</strong></p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc&theme=nord" alt="alanmartinc" height="150px" width="45%"/></a></p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc&theme=nord" alt="alanmartinc"/></a>
 
 - ♨️ I’m currently learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>.
 - 🎯 I’m currently working on [Technisys](https://technisys.com/?lang=es), in the [Banco Macro](https://www.macro.com.ar/home-page) and [Banco de Córdoba](https://www.bancor.com.ar/718_APP/) projects.
