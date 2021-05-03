@@ -76,7 +76,6 @@
 
 ---
 
-<p align="center">
 - UX/UI Design: Adobe Xd, Figma, Sketch.
 - Graphic Design: Illustrator, Photoshop, After effects.
 - Frontend: HTML5, CSS3, JavaScript.
@@ -97,4 +96,3 @@ Python: Flask, Django.
 - Web application packager: Webpack, Parcel, SWC, Rollup, Snowpack, Rome, esbuild.
 - Backend: PHP 8, Python 3.
 - Database: SQL, MySQL, MongoDB.
-</p>
