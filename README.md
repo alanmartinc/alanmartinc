@@ -14,8 +14,6 @@
   </a>
 </p>
 
-<h3 align="center"></h3>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc&theme=nord" alt="alanmartinc" /></a></p>
 
 - ♨️ I’m currently learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>.
