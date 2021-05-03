@@ -8,11 +8,6 @@
 </p>
 
 <p align="center">Frontend Developer React en Technisys - Digital Banking - <strong>MERN</strong></p>
-<p align="center">
-   <a href="https://linkedin.com/in/alan-cabot" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alan-cabot" height="28px" width="28px" />
-  </a>
-</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alanmartinc&theme=nord" alt="alanmartinc" /></a></p>
 
