@@ -77,15 +77,14 @@
 ---
 
 <p align="center">
-⦁ UX/UI Design: Adobe Xd, Figma, Sketch.
-⦁ Graphic Design: Illustrator, Photoshop, After effects.
-⦁ Frontend: HTML5, CSS3, JavaScript.
-⦁ Programming languages: TypeScript, NodeJS.
-⦁ Pre-processors: SASS, LESS.
-⦁ Layout Models: Flexbox, CSS Grid Layout.
-⦁ Libraries: React, Redux, jQuery, Ajax, Axios, Alpine.js, Mongoose, Socket.io, Lodash, Three.js, Babylon.js, Moment.js, Hammer.js, Draggable.js, Axios.js, Chart.js, Video.js, Interact.js, Codemirror, Immer, Ramda, Tkinter.
-
-⦁ Frameworks: 
+- UX/UI Design: Adobe Xd, Figma, Sketch.
+- Graphic Design: Illustrator, Photoshop, After effects.
+- Frontend: HTML5, CSS3, JavaScript.
+- Programming languages: TypeScript, NodeJS.
+- Pre-processors: SASS, LESS.
+- Layout Models: Flexbox, CSS Grid Layout.
+- Libraries: React, Redux, jQuery, Ajax, Axios, Alpine.js, Mongoose, Socket.io, Lodash, Three.js, Babylon.js, Moment.js, Hammer.js, Draggable.js, Axios.js, Chart.js, Video.js, Interact.js, Codemirror, Immer, Ramda, Tkinter.
+- Frameworks: 
 CSS: Bootstrap 4.
 JavaScript: Vue, Svelte.
 React: NextJS, Gatsby.
@@ -93,10 +92,9 @@ NodeJS: Express, Hapi, Strapi, Nuxt, Koa, Nest, Fastify.
 TypeScript: Angular. 
 PHP: Laravel 5-6-7-8, Symfony 4-5.
 Python: Flask, Django.
-
-⦁ Testing: Jest, Testing library, Jasmine, Mocha.
-⦁ Query language: GraphQL, Rest.
-⦁ Web application packager: Webpack, Parcel, SWC, Rollup, Snowpack, Rome, esbuild.
-⦁ Backend: PHP 8, Python 3.
-⦁ Database: SQL, MySQL, MongoDB.
+- Testing: Jest, Testing library, Jasmine, Mocha.
+- Query language: GraphQL, Rest.
+- Web application packager: Webpack, Parcel, SWC, Rollup, Snowpack, Rome, esbuild.
+- Backend: PHP 8, Python 3.
+- Database: SQL, MySQL, MongoDB.
 </p>
