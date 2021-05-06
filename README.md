@@ -4,10 +4,10 @@
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://i.pinimg.com/originals/c0/3d/fc/c03dfc81d7798acff5a8a165c739e5ed.png" />
-   <h3 align="center">Hi 👋, I'm Alan Cabot 💻</h3>
+   <h3 align="center">Hi 👋, my name is Alan Cabot, I am from Argentina - Buenos Aires</h3>
 </p>
 
-<p align="center">Frontend Developer React en Technisys - Digital Banking - <strong>MERN</strong></p>
+<p align="center">Frontend Developer React en Technisys - Digital Banking - <strong>MERN</strong> 💻</p>
 
 ---
 
