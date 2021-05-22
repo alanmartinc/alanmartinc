@@ -2,7 +2,10 @@
   <a href="https://github.com/alanmartinc"><img src="https://img.shields.io/github/followers/alanmartinc?label=follow&style=social" /></a>
 </p>
 
-
+<p align="center" width="300">
+   <img align="center" width="200" src="https://i.pinimg.com/originals/c0/3d/fc/c03dfc81d7798acff5a8a165c739e5ed.png" />
+   <h3 align="center">Hi 👋, My name's Alan Cabot, I'm from Argentina - Buenos Aires</h3>
+</p>
 
 <p align="center">Frontend Developer React en Technisys - Digital Banking - <strong>MERN</strong> 💻</p>
 
