@@ -13,7 +13,7 @@
 
 - ♨️ I’m currently learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>.
 - 🎯 I’m currently working on [Technisys](https://technisys.com/?lang=es), in the [Banco de Córdoba](https://www.bancor.com.ar/718_APP/) projects.
-- 📫 How to reach me **alancabot.ac@gmail.com** or **alancabot_96@outlook.com**
+- 📫 How to reach me **alancabot.ac@gmail.com** or **alancabot_96@outlook.com**.
 - 📇 [Curriculum](https://drive.google.com/file/d/1j5FlGL8PsTMdaRDpiR5MmKdnA5iNS3NM/view?usp=sharing)
 - 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/)
 
@@ -24,14 +24,7 @@
 		<b>Projects Masters 🗂️</b>
 	</summary>
 
-  <ul>
-    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-DesarrolloWeb-Udemy-Ejercicios">---> Master en Desarrollo Web</a></h3></li>
-    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-WebsFullStack-Udemy-Ejercicios">---> Master en Webs FullStack</a></h3></li>
-    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-JavaScript-Udemy-Ejercicios">---> Master en JavaScript</a></h3></li>
-    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-CSS-Udemy-Ejercicios">---> Master en CSS</a></h3></li>
-    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-PHP-Udemy-Ejercicios">---> Master en PHP</a></h3></li>
-    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Curso-Master-Python-Udemy-Ejercicios">---> Master en Python</a></h3></li>
-  </ul>
+  
 </details>  
 
 <details>
