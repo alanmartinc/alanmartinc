@@ -13,7 +13,7 @@
 
 - ♨️ I’m currently learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>.
 - 🎯 I’m currently working on [Technisys](https://technisys.com/?lang=es), in the [Banco de Córdoba](https://www.bancor.com.ar/718_APP/) projects.
-- 📫 How to reach me **alancabot.ac@gmail.com** or **alancabot_96@outlook.com**.
+- 📫 How to reach me **alancabot.ac@gmail.com** or **alancabot_96@outlook.com**
 - 📇 [Curriculum](https://drive.google.com/file/d/1j5FlGL8PsTMdaRDpiR5MmKdnA5iNS3NM/view?usp=sharing)
 - 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/)
 
@@ -55,7 +55,7 @@
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/JavaScript-De-Cero-Hasta-Los-Detalles">---> JavaScript de cero hasta los detalles</a></h3></li>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/JavaScript-NivelJunior">---> JavaScript nivel Jr</a></h3></li>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/JavaScript-NivelSsr">---> JavaScript nivel Ssr</a></h3></li>
-	<li><h3><a target="_blank" href="https://github.com/alanmartinc/JavaScript-NivelMaster">---> JavaScript nivel Master</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/JavaScript-NivelMaster">---> JavaScript nivel Master</a></h3></li>
     <li><h3><a target="_blank" href="https://github.com/alanmartinc/Escuela-JavaScript-Platzi">---> Escuela JavaScript</a></h3></li>
   </ul>
 </details>
