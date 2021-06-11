@@ -13,7 +13,7 @@
 
 - ♨️ I’m currently learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>.
 - 🎯 I’m currently working on [Technisys](https://technisys.com/?lang=es), in the [Banco de Córdoba](https://www.bancor.com.ar/718_APP/) projects.
-- 📫 How to reach me **alancabot_96@outlook.com**
+- 📫 How to reach me **alancabot.ac@gmail.com**
 - 📇 [Curriculum](https://drive.google.com/file/d/19T6Hj-wXav6e5_nHork2AcjL5VjT9T2k/view?usp=sharing)
 - 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/)
 
