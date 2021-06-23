@@ -5,10 +5,10 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://i.pinimg.com/originals/c0/3d/fc/c03dfc81d7798acff5a8a165c739e5ed.png" />
    <h3 align="center">Hi 👋, My name's Alan Cabot, I'm from Argentina - Buenos Aires</h3>
-   <h4 align="center">At the moment  i'm using HTML5, CSS3, SASS, Typescript, Redux Toolkit - Thunk, Storybook and Jest.</h4>
+   <h4 align="center">Frontend Developer React en Technisys - Digital Banking - <strong>MERN</strong> 💻</h4>
 </p>
 
-<p align="center">Frontend Developer React en Technisys - Digital Banking - <strong>MERN</strong> 💻</p>
+<p align="center">At the moment  i'm using HTML5, CSS3, SASS, Typescript, Redux Toolkit - Thunk, Storybook and Jest.</p>
 
 ---
 
