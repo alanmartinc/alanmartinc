@@ -8,8 +8,6 @@
    <h3 align="center">Frontend Developer React en Technisys - Digital Banking - <strong>MERN</strong> 💻</h3>
 </p>
 
-<p align="center">At the moment  i'm using HTML5, CSS3, SASS, Typescript, Redux Toolkit - Thunk, Storybook and Jest.</p>
-
 ---
 
 - ♨️ I’m currently learning React <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>.
