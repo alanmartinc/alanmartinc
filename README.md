@@ -36,7 +36,10 @@
 		<b>Projects React 🗂️</b>
 	</summary>
 
-  
+  <ul>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/Universidad_React_De_Cero_A_Master">---> Universidad React de cero a master</a></h3></li>
+    <li><h3><a target="_blank" href="https://github.com/alanmartinc/React_La_Guia_Completa">---> React la guía completa</a></h3></li>
+  </ul>
 </details>
 
 <details>
