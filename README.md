@@ -10,9 +10,9 @@
 
 ---
 
-- 🎯 I’m currently working on [Technisys](https://technisys.com/?lang=es), in the [Banco de Córdoba](https://www.bancor.com.ar/718_APP/) projects.
-- 📫 How to reach me **alancabot.ac@gmail.com**.
-- 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/).
+- 🎯 I’m currently working on [Technisys](https://technisys.com/?lang=es), in the [Banco de Córdoba](https://www.bancor.com.ar/718_APP/) projects
+- 📫 How to reach me **alancabot.ac@gmail.com**
+- 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/)
 
 ---
 
