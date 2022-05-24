@@ -11,7 +11,7 @@
 ---
 
 - 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es)
-- 📫 How to reach me **alancabot.ac@gmail.com**
+- 📫 How to reach at **alancabot.ac@gmail.com**
 - 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/)
 
 ---
