@@ -5,12 +5,13 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://i.pinimg.com/originals/c0/3d/fc/c03dfc81d7798acff5a8a165c739e5ed.png" />
    <h3 align="center">Hi 👋, My name's Alan Cabot, I'm from Argentina - Buenos Aires</h3>
-   <h3 align="center">Frontend Developer React at Accenture - Digital Banking 💻</h3>
+   <h3 align="center">Frontend Developer React at Accenture - Digital Banking</h3>
+   <h3 align="center">Web Developer at Coderhouse - Advisor</h3>
 </p>
 
 ---
 
-- 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es)
+- 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/)
 - 📫 How to reach me **alancabot.ac@gmail.com**
 - 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/)
 
