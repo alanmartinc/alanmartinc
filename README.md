@@ -20,23 +20,23 @@
 **UX/UI Designer:** 
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/adobe-xd.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/figma.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/sketch.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/adobe-xd.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/figma.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/sketch.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 **Graphic Design:** 
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/adobe-illustrator.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/adobe-illustrator.svg" width="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/adobe-photoshop.svg" width="30px" hspace="5" vspace="5"/>
 </div>
 
 **Frontend:** 
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
@@ -44,8 +44,8 @@
 **Pre-processors:** 
  
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/sass.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/less.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/sass.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/less.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 **Libraries:** 
@@ -92,12 +92,12 @@
  
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/jenkins.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
-  <img src="https://cdn.svgporn.com/logos/redhat-icon.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/openshift.svg" width="30px" height="30px" hspace="5"/>  
-  <img src="https://cdn.svgporn.com/logos/kibana.svg" width="30px" height="30px" hspace="5"/>  
+  <img src="https://cdn.svgporn.com/logos/redhat-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/openshift.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
+  <img src="https://cdn.svgporn.com/logos/kibana.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
-  <img src="https://cdn.svgporn.com/logos/postman.svg" width="30px" height="30px" hspace="5"/> 
-  <img src="https://cdn.svgporn.com/logos/swagger.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/postman.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
+  <img src="https://cdn.svgporn.com/logos/swagger.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 **Hosting Service:**
