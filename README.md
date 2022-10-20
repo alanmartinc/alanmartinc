@@ -78,6 +78,14 @@
   <img src="https://cdn.svgporn.com/logos/python.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
+**Database:** 
+ 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/sql.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
+  <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
+</div>
+
 <div style="display: flex; flex-direction: row; justify-content: center;">
   
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
@@ -93,8 +101,6 @@
   <img src="https://cdn.svgporn.com/logos/bamboo.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/jira.svg" width="30px" height="30px" hspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/postman.svg" width="30px" height="30px" hspace="5"/>  
-  <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
-  <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/gulp.svg" width="30px" height="30px" hspace="2"/>
   
   <img src="https://cdn.svgporn.com/logos/npm.svg" width="30px" height="30px" hspace="5"/>
