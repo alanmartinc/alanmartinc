@@ -91,22 +91,15 @@
  
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/jenkins.svg" width="30px" height="30px" hspace="5"/> 
-  <img src="https://cdn.svgporn.com/logos/sonar.svg" width="30px" height="30px" hspace="5"/> 
-  <img src="https://cdn.svgporn.com/logos/sonar-qube.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/veracode.svg" width="30px" height="30px" hspace="5"/> 
-  <img src="https://cdn.svgporn.com/logos/nexus.svg" width="30px" height="30px" hspace="5"/> 
-  <img src="https://cdn.svgporn.com/logos/nexus-repository.svg" width="30px" height="30px" hspace="5"/> 
+  <img src="https://cdn.svgporn.com/logos/redhat-icon.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/openshift.svg" width="30px" height="30px" hspace="5"/>  
+  <img src="https://cdn.svgporn.com/logos/kibana.svg" width="30px" height="30px" hspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/swagger.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/serena.svg" width="30px" height="30px" hspace="5"/>
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-
-  <img src="https://cdn.svgporn.com/logos/maven.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/tomcat.svg" width="30px" height="30px" hspace="5"/>
-   
-  <img src="https://cdn.svgporn.com/logos/redhat-icon.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/openshift.svg" width="30px" height="30px" hspace="5"/>  
+ 
+  
   <img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/bamboo.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/jira.svg" width="30px" height="30px" hspace="5"/>  
