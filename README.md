@@ -21,8 +21,6 @@
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/adobe-xd.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/adobexd.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/xd.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/whimsical.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/balsamiq.svg" width="30px" height="30px" hspace="5"/>
 </div>
