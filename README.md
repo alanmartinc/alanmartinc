@@ -38,6 +38,7 @@
   <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/css-3.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 **Pre-processors:** 
@@ -61,6 +62,7 @@
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/django-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/angular-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
 </div>
 
 **Testing:** 
@@ -81,20 +83,28 @@
 **Database:** 
  
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/sql.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
   <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
 </div>
 
+**Work methodology:** 
+ 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/angular-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
-
+  <img src="https://cdn.svgporn.com/logos/jenkins.svg" width="30px" height="30px" hspace="5"/> 
+  <img src="https://cdn.svgporn.com/logos/sonar.svg" width="30px" height="30px" hspace="5"/> 
+  <img src="https://cdn.svgporn.com/logos/sonar-qube.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/veracode.svg" width="30px" height="30px" hspace="5"/> 
+  <img src="https://cdn.svgporn.com/logos/nexus.svg" width="30px" height="30px" hspace="5"/> 
+  <img src="https://cdn.svgporn.com/logos/nexus-repository.svg" width="30px" height="30px" hspace="5"/> 
   <img src="https://cdn.svgporn.com/logos/swagger.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/serena.svg" width="30px" height="30px" hspace="5"/>
+</div>
+
+<div style="display: flex; flex-direction: row; justify-content: center;">
+
   <img src="https://cdn.svgporn.com/logos/maven.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/tomcat.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/jenkins.svg" width="30px" height="30px" hspace="5"/>  
+   
   <img src="https://cdn.svgporn.com/logos/redhat-icon.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/openshift.svg" width="30px" height="30px" hspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="30px" height="30px" hspace="5"/>
