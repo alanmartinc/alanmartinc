@@ -99,15 +99,20 @@
   <img src="https://cdn.svgporn.com/logos/swagger.svg" width="30px" height="30px" hspace="5"/>
 </div>
 
+**Hosting Service:**
+
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="30px" height="30px" hspace="5" vspace="5" />
+  <img src="https://cdn.svgporn.com/logos/gitlab.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/bitbucket.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
+</div>
+
 **Scrum:** 
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/scrum.svg" width="30px" height="30px" hspace="5" vspace="5" /> 
-  <img src="https://cdn.svgporn.com/logos/teams.svg" width="30px" height="30px" hspace="5" vspace="5" /> 
-  <img src="https://cdn.svgporn.com/logos/jira.svg" width="30px" height="30px" hspace="5" vspace="5" />  
-  <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="30px" height="30px" hspace="5" vspace="5" />
-  <img src="https://cdn.svgporn.com/logos/bitbucket.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/gitlab.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
+  <img src="https://cdn.svgporn.com/logos/jira.svg" width="30px" height="30px" hspace="5" vspace="5" /> 
+  <img src="https://cdn.svgporn.com/logos/trello.svg" width="30px" height="30px" hspace="5" vspace="5" /> 
+  <img src="https://cdn.svgporn.com/logos/service-now.svg" width="30px" height="30px" hspace="5" vspace="5" /> 
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/slack-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
