@@ -63,6 +63,14 @@
   <img src="https://cdn.svgporn.com/logos/django-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
+**Testing:** 
+ 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/jest.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/testing-library.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/cypress.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+</div>
+
 <div style="display: flex; flex-direction: row; justify-content: center;">
   
   <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
