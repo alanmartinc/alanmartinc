@@ -94,6 +94,7 @@
   <img src="https://cdn.svgporn.com/logos/jenkins.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
   <img src="https://cdn.svgporn.com/logos/openshift.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/kibana.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
+  <img src="https://cdn.svgporn.com/logos/appdynamics.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
   <img src="https://cdn.svgporn.com/logos/postman.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
   <img src="https://cdn.svgporn.com/logos/swagger.svg" width="30px" height="30px" hspace="5" vspace="5"/>
@@ -113,7 +114,6 @@
   <img src="https://cdn.svgporn.com/logos/jira.svg" width="30px" height="30px" hspace="5" vspace="5" /> 
   <img src="https://cdn.svgporn.com/logos/trello.svg" width="30px" height="30px" hspace="5" vspace="5" />  
   <img src="https://cdn.svgporn.com/logos/slack-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/appdynamics.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 ---
