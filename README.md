@@ -76,6 +76,7 @@
 **Backend:** 
  
 <div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/php.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/python.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
@@ -104,26 +105,17 @@
    
   <img src="https://cdn.svgporn.com/logos/gulp.svg" width="30px" height="30px" hspace="2"/>
   
-  <img src="https://cdn.svgporn.com/logos/npm.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/babel.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/nodemon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/bitbucket.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/github-octocat.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/gitlab.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
-  <img src="https://cdn.svgporn.com/logos/kubernetes.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/aws.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/azure-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/google-cloud.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/intellij-idea.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/eclipse-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+
   <img src="https://cdn.svgporn.com/logos/slack-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/protactor.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/selenium.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+
   <img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
 </div>
 
