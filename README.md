@@ -94,16 +94,14 @@
   <img src="https://cdn.svgporn.com/logos/redhat-icon.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/openshift.svg" width="30px" height="30px" hspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/kibana.svg" width="30px" height="30px" hspace="5"/>  
+  <img src="https://cdn.svgporn.com/logos/postman.svg" width="30px" height="30px" hspace="5"/> 
   <img src="https://cdn.svgporn.com/logos/swagger.svg" width="30px" height="30px" hspace="5"/>
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
- 
-  
-  <img src="https://cdn.svgporn.com/logos/heroku-icon.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/bamboo.svg" width="30px" height="30px" hspace="5"/>
+
   <img src="https://cdn.svgporn.com/logos/jira.svg" width="30px" height="30px" hspace="5"/>  
-  <img src="https://cdn.svgporn.com/logos/postman.svg" width="30px" height="30px" hspace="5"/>  
+   
   <img src="https://cdn.svgporn.com/logos/gulp.svg" width="30px" height="30px" hspace="2"/>
   
   <img src="https://cdn.svgporn.com/logos/npm.svg" width="30px" height="30px" hspace="5"/>
