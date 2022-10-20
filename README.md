@@ -24,6 +24,13 @@
   <img src="https://cdn.svgporn.com/logos/figma.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/sketch.svg" width="30px" height="30px" hspace="5"/>
 </div>
+
+**Graphic Design:** 
+
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/illustrator.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/photoshop.svg" width="30px" height="30px" hspace="5"/>
+</div>
   
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" height="30px" hspace="5"/>
