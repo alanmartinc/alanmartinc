@@ -113,6 +113,7 @@
   <img src="https://cdn.svgporn.com/logos/jira.svg" width="30px" height="30px" hspace="5" vspace="5" /> 
   <img src="https://cdn.svgporn.com/logos/trello.svg" width="30px" height="30px" hspace="5" vspace="5" />  
   <img src="https://cdn.svgporn.com/logos/slack-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/appdynamics.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 ---
