@@ -18,8 +18,14 @@
 ---
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
-  <img src="https://cdn.svgporn.com/logos/java.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/spring-icon.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/css-3.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/sass.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/less.svg" width="30px" height="30px" hspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/react.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+
   <img src="https://cdn.svgporn.com/logos/swagger.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/maven.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/tomcat.svg" width="30px" height="30px" hspace="5"/>
@@ -32,14 +38,9 @@
   <img src="https://cdn.svgporn.com/logos/postman.svg" width="30px" height="30px" hspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
   <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/html-5.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/css-3.svg" width="30px" height="30px" hspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/react.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/angular-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
   <img src="https://cdn.svgporn.com/logos/gulp.svg" width="30px" height="30px" hspace="2"/>
-  <img src="https://cdn.svgporn.com/logos/sass.svg" width="30px" height="30px" hspace="5"/>
+  
   <img src="https://cdn.svgporn.com/logos/npm.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/babel.svg" width="30px" height="30px" hspace="5"/>
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
