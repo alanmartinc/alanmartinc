@@ -92,7 +92,6 @@
  
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/jenkins.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
-  <img src="https://cdn.svgporn.com/logos/redhat-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/openshift.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/kibana.svg" width="30px" height="30px" hspace="5" vspace="5"/>  
   <img src="https://cdn.svgporn.com/logos/docker-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
