@@ -53,8 +53,14 @@
   <img src="https://cdn.svgporn.com/logos/jquery.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/immer.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/ramda.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/tkinder.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/react.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+</div>
+
+**Frameworks:** 
+ 
+<div style="display: flex; flex-direction: row; justify-content: center;">
+  <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/django-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
@@ -94,7 +100,6 @@
   <img src="https://cdn.svgporn.com/logos/eclipse-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/sublimetext-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/python.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/django-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/slack-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/protactor.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/selenium.svg" width="30px" height="30px" hspace="5" vspace="5"/>
