@@ -6,7 +6,7 @@
    <img align="center" width="200" src="https://i.pinimg.com/originals/c0/3d/fc/c03dfc81d7798acff5a8a165c739e5ed.png" />
    <h3 align="center">Hi 👋, My name's Alan Cabot, I'm from Argentina - Buenos Aires</h3>
    <h3 align="center">Full Stack Developer at Accenture - Digital Banking</h3>
-   <h3 align="center">Web Developer at Coderhouse - Advisor</h3>
+   <h3 align="center">Web Developer and React at Coderhouse - Advisor</h3>
 </p>
 
 ---
