@@ -115,10 +115,3 @@
   <img src="https://cdn.svgporn.com/logos/trello.svg" width="30px" height="30px" hspace="5" vspace="5" />  
   <img src="https://cdn.svgporn.com/logos/slack-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
-
----
-
-<p align="center">
-  <img width="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=alanmartinc&theme=nord&show_icons=true" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmartinc&theme=nord&layout=compact" align="top" height="150px" width="45%" />
-</p>
