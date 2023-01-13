@@ -12,6 +12,7 @@
 ---
 
 - 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/)
+- 🦾 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/)
 - 📫 How to reach me **alancabot.ac@gmail.com**
 - 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/)
 
