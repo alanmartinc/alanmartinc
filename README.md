@@ -24,17 +24,6 @@
   <img src="https://cdn.svgporn.com/logos/adobe-xd.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/figma.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/sketch.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/mural.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/miro.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/next.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/nest.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/express.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/nextjs.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/expressjs.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/mongoose.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  <img src="https://cdn.svgporn.com/logos/typeorm.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-  
 </div>
 
 **Graphic Design:** 
@@ -75,6 +64,7 @@
   <img src="https://cdn.svgporn.com/logos/bootstrap.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/django-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/angular-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
+  <img src="https://cdn.svgporn.com/logos/nextjs.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 **Testing:** 
@@ -91,6 +81,7 @@
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/php.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/python.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 **Database:** 
@@ -98,6 +89,7 @@
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/mysql.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="30px" height="30px" hspace="5" vspace="5"/> 
+  <img src="https://cdn.svgporn.com/logos/typeorm.svg" width="30px" height="30px" hspace="5" vspace="5"/>
 </div>
 
 **Work methodology:** 
