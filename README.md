@@ -24,6 +24,17 @@
   <img src="https://cdn.svgporn.com/logos/adobe-xd.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/figma.svg" width="30px" height="30px" hspace="5" vspace="5"/>
   <img src="https://cdn.svgporn.com/logos/sketch.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/mural.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/miro.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/next.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/nest.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/express.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/nextjs.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/nestjs.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/expressjs.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/mongoose.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  <img src="https://cdn.svgporn.com/logos/typeorm.svg" width="30px" height="30px" hspace="5" vspace="5"/>
+  
 </div>
 
 **Graphic Design:** 
