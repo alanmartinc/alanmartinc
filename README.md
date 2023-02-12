@@ -1,8 +1,7 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://i.pinimg.com/originals/c0/3d/fc/c03dfc81d7798acff5a8a165c739e5ed.png" />
    <h3 align="center">Hi 👋, My name's Alan Cabot, I'm from Argentina - Buenos Aires</h3>
-   <h3 align="center">Full Stack Developer at Accenture - Financial Services</h3>
-   <h3 align="center">Web Developer and React at Coderhouse - Tutor</h3>
+   <h3 align="center">Full Stack Developer and Tutor</h3>
 </p>
 
 ---
@@ -17,15 +16,13 @@
 
 - 🦾 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
 
-- 📫 How to reach me **alancabot.ac@gmail.com**
-
 - 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/).
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc)!.
+- 💬 Ask me about **HTML, CSS, JS and ReactJS**.
 
 - 📫 How to reach me: **alancabot.ac@gmail.com**.
 
-- 💬 Ask me about **HTML, CSS, JS and ReactJS **.
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc)!.
 
 <br>
 
