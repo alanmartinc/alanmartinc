@@ -10,7 +10,6 @@
 
 <br>
 
-
 - 🌱 I’m currently learning **NestJS**.
 
 - 🦾 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
@@ -25,7 +24,7 @@
 
 - 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/).
 
-
+<br>
 <br>
 
 ---
