@@ -7,10 +7,27 @@
 
 ---
 
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+
+<br>
+
+- 🌱 I’m currently learning **NestJS**.
+
 - 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/).
+
 - 🦾 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
+
 - 📫 How to reach me **alancabot.ac@gmail.com**
+
 - 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/).
+
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc)!.
+
+- 📫 How to reach me: **alancabot.ac@gmail.com**.
+
+- 💬 Ask me about **HTML, CSS, JS and ReactJS **.
+
+<br>
 
 ---
 
