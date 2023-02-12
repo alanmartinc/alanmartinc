@@ -14,7 +14,6 @@
 
 <br>
 <br>
-<br>
 
 - 🌱 I’m currently learning **NestJS**.
 
@@ -43,9 +42,6 @@
 [![Linkedin: Alan Cabot](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)
   
 </div>
-
-<br>
-<br>
 
 ---
 
