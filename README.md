@@ -9,17 +9,17 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning **NestJS**.
+🌱 I’m currently learning **NestJS**.
 
-- 🦾 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
+🦾 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
 
-- 💬 Ask me about **HTML, CSS, JS and ReactJS**.
+💬 Ask me about **HTML, CSS, JS and ReactJS**.
 
-- 📫 How to reach me: **alancabot.ac@gmail.com**.
+📫 How to reach me: **alancabot.ac@gmail.com**.
 
-- 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/).
+🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/).
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc) and [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/projects.html).
+🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc) and [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/projects.html).
 
 <h3 align="left">📫 Connect with me</h3>
 
