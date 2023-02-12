@@ -14,7 +14,7 @@
 
 - 🦾 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
 
-- 💻 See my portfolio and personal projects [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/).
+- 💻 See my portfolio and projects [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/).
 
 - 💬 Ask me about **HTML, CSS, JS and ReactJS**.
 
