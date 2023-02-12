@@ -24,9 +24,9 @@
 
 - 📫 How to reach me: **alancabot.ac@gmail.com**.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc).
-
 - 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/).
+
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc) and [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/projects.html).
 
 <br>
 <br>
