@@ -43,8 +43,6 @@
   
 </div>
 
-<br>
-
 ---
 
 **UX/UI Designer:** 
