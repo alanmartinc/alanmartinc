@@ -2,11 +2,11 @@
   <a href="https://github.com/alanmartinc"><img src="https://img.shields.io/github/followers/alanmartinc?label=follow&style=social" /></a>
 </p>
 
-<br>
-<br>
-<br>
-
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
+
+<br>
+<br>
+<br>
 
 🌱 I’m currently learning **NestJS**.
 
