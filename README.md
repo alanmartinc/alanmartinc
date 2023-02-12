@@ -24,9 +24,9 @@
 <br>
 <br>
 
-<h3 align="center">📫 Connect with me</h3>
+<h3 align="left">📫 Connect with me</h3>
 
-<div align = "center"> 
+<div align = "left"> 
 
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alanmartinc)](https://www.frontendmentor.io/profile/alanmartinc)&nbsp;
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/alanmartinc)](https://codepen.io/alanmartinc)
