@@ -6,6 +6,7 @@
 
 <br>
 <br>
+<br>
 
 🌱 I’m currently learning **NestJS**.
 
@@ -19,7 +20,6 @@
 
 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc) and [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/projects.html).
 
-<br>
 <br>
 
 ---
