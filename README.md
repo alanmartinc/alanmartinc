@@ -12,17 +12,17 @@
 
 - 🌱 I’m currently learning **NestJS**.
 
-- 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/).
-
 - 🦾 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
 
-- 💻 [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/).
+- 💻 See my portfolio and personal projects [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/).
 
 - 💬 Ask me about **HTML, CSS, JS and ReactJS**.
 
 - 📫 How to reach me: **alancabot.ac@gmail.com**.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc)!.
+
+- 🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/).
 
 <br>
 
