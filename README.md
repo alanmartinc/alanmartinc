@@ -2,11 +2,7 @@
   <a href="https://github.com/alanmartinc"><img src="https://img.shields.io/github/followers/alanmartinc?label=follow&style=social" /></a>
 </p>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
-
-<br>
-<br>
-<br>
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/90595158/211714560-d889e973-e44e-45bb-a4f1-6901c269837b.svg" width="360px"/>
 
 🌱 I’m currently learning **NestJS**.
 
@@ -20,7 +16,22 @@
 
 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc) and [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/projects.html).
 
+---
+
+<h3 align="center">📫 Connect with me</h3>
+
+<div align = "center"> 
+
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alanmartinc)](https://www.frontendmentor.io/profile/alanmartinc)&nbsp;
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/alanmartinc)](https://codepen.io/alanmartinc)
 <br>
+[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/alanmartinc)](https://linktr.ee/alanmartinc)&nbsp;
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/alanmartinc)](https://www.freecodecamp.org/alanmartinc)&nbsp;
+[![Linkedin: Alan Cabot](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)
+  
+</div>
+
+---
 
 **UX/UI Designer:** 
 
@@ -122,19 +133,4 @@
   <img src="https://cdn.svgporn.com/logos/jira.svg" width="30px" height="30px" hspace="5" vspace="5" /> 
   <img src="https://cdn.svgporn.com/logos/trello.svg" width="30px" height="30px" hspace="5" vspace="5" />  
   <img src="https://cdn.svgporn.com/logos/slack-icon.svg" width="30px" height="30px" hspace="5" vspace="5"/>
-</div>
-
----
-
-<h3 align="center">📫 Connect with me</h3>
-
-<div align = "center"> 
-
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alanmartinc)](https://www.frontendmentor.io/profile/alanmartinc)&nbsp;
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/alanmartinc)](https://codepen.io/alanmartinc)
-<br>
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/alanmartinc)](https://linktr.ee/alanmartinc)&nbsp;
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/alanmartinc)](https://www.freecodecamp.org/alanmartinc)&nbsp;
-[![Linkedin: Alan Cabot](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)
-  
 </div>
