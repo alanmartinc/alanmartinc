@@ -4,7 +4,8 @@
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://i.pinimg.com/originals/c0/3d/fc/c03dfc81d7798acff5a8a165c739e5ed.png" />
-   <h3 align="center">Hi 👋, My name's Alan Cabot, I'm from Argentina - Buenos Aires</h3>
+   <h2 align="center">Hi 👋, My name's Alan Cabot</h2>
+   <h2 align="center">I'm from Argentina - Buenos Aires</h2>
    <h3 align="center">Full Stack Developer and Tutor</h3>
 </p>
 
