@@ -35,12 +35,12 @@
 <h3 align="center">📫 Connect with me</h3>
 
 <div align = "center"> 
-  [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alanmartinc)](https://www.frontendmentor.io/profile/alanmartinc)&nbsp;
-  [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/alanmartinc)](https://codepen.io/alanmartinc)
-  <br>
-  [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/alanmartinc)](https://linktr.ee/alanmartinc)&nbsp;
-  [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/alanmartinc)](https://www.freecodecamp.org/alanmartinc)&nbsp;
-  [![Linkedin: Alan Cabot](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alanmartinc)](https://www.frontendmentor.io/profile/alanmartinc)&nbsp;
+[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/alanmartinc)](https://codepen.io/alanmartinc)
+<br>
+[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/alanmartinc)](https://linktr.ee/alanmartinc)&nbsp;
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/alanmartinc)](https://www.freecodecamp.org/alanmartinc)&nbsp;
+[![Linkedin: Alan Cabot](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)
 </div>
 
 ---
