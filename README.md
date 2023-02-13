@@ -35,7 +35,9 @@
 <br>
 [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/alanmartinc)](https://linktr.ee/alanmartinc)&nbsp;
 [![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/alanmartinc)](https://www.freecodecamp.org/alanmartinc)&nbsp;
-[![Linkedin: Alan Cabot](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)&nbsp;
+  
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://es.stackoverflow.com/users/320391/alan-martín-cabot)](https://es.stackoverflow.com/users/320391/alan-martín-cabot)&nbsp;
   
 </div>
 
