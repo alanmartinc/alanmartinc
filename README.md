@@ -10,7 +10,11 @@
 
 🌱 I’m currently learning **NestJS**.
 
-🦾 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
+🤖 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
+
+📰 Take a look at my posts on [Hashnode](https://alanmartincabot.hashnode.dev/) and [Dev.to](https://dev.to/alanmartinc).
+
+🦾 Take a look at my solutions on [Codewars](https://www.codewars.com/users/alanmartinc).
 
 💬 Ask me about **HTML, CSS, JS and ReactJS**.
 
