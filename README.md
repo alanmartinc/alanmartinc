@@ -10,19 +10,19 @@
 
 🌱 I’m currently learning **NestJS**.
 
-🤖 Ceo and Software Developer at [Ibotk](https://www.ibotk.com/).
+🤖 Ceo and Software Developer at [**Ibotk**](https://www.ibotk.com/).
 
-📰 Take a look at my posts on [Hashnode](https://alanmartincabot.hashnode.dev/) and [Dev.to](https://dev.to/alanmartinc).
+📰 Take a look at my posts on [**Hashnode**](https://alanmartincabot.hashnode.dev/) and [**Dev.to**](https://dev.to/alanmartinc).
 
-🦾 Take a look at my solutions on [Codewars](https://www.codewars.com/users/alanmartinc).
+🦾 Take a look at my solutions on [**Codewars**](https://www.codewars.com/users/alanmartinc).
 
 💬 Ask me about **HTML, CSS, JS and ReactJS**.
 
 📫 How to reach me: **alancabot.ac@gmail.com**.
 
-🎯 I’m currently working on [Accenture](https://www.accenture.com/ar-es) and  [Coderhouse](https://www.coderhouse.com/).
+🎯 I’m currently working on [**Accenture**](https://www.accenture.com/ar-es) and  [**Coderhouse**](https://www.coderhouse.com/).
 
-🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/alanmartinc), [Portfolio](https://portfolio-alan-martin-cabot.netlify.app/projects.html) and [FreeCodeCamp](https://www.freecodecamp.org/alanmartinc).
+🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc), [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/projects.html) and [**FreeCodeCamp**](https://www.freecodecamp.org/alanmartinc).
 
 <br>
 <br>
