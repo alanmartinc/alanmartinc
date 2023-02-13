@@ -50,7 +50,7 @@
 
 ---
 
-**UX/UI Designer:** 
+**UX Developer:** 
 
 <div style="display: flex; flex-direction: row; justify-content: center;">
   <img src="https://cdn.svgporn.com/logos/adobe-xd.svg" width="30px" height="30px" hspace="5" vspace="5"/>
