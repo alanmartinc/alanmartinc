@@ -30,14 +30,12 @@
 
 <div align = "center"> 
 
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alanmartinc)](https://www.frontendmentor.io/profile/alanmartinc)&nbsp;
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/alanmartinc)](https://codepen.io/alanmartinc)&nbsp;
-<br>
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/alanmartinc)](https://linktr.ee/alanmartinc)&nbsp;
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/alanmartinc)](https://www.freecodecamp.org/alanmartinc)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)&nbsp;
-  
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-orange?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://es.stackoverflow.com/users/320391/alan-martín-cabot)](https://es.stackoverflow.com/users/320391/alan-martín-cabot)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)&nbsp;
+[![Linktree](https://img.shields.io/badge/-Linktree-3DD95B?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/alanmartinc)](https://linktr.ee/alanmartinc)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-65BFCE?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alanmartinc)](https://www.frontendmentor.io/profile/alanmartinc)&nbsp;
+[![CodePen](https://img.shields.io/badge/-CodePen-1E1F25?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/alanmartinc)](https://codepen.io/alanmartinc)&nbsp;
+[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-1b1b32?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/alanmartinc)](https://www.freecodecamp.org/alanmartinc)&nbsp;
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-F48224?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://es.stackoverflow.com/users/320391/alan-martín-cabot)](https://es.stackoverflow.com/users/320391/alan-martín-cabot)&nbsp;
   
 </div>
 
