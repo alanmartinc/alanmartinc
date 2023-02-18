@@ -22,7 +22,7 @@
 
 🎯 I’m currently working on [**Accenture**](https://www.accenture.com/ar-es) and  [**Coderhouse**](https://www.coderhouse.com/).
 
-🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc), [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/projects.html) and [**FreeCodeCamp**](https://www.freecodecamp.org/alanmartinc).
+🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc), [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/projects.html), [**FreeCodeCamp**](https://www.freecodecamp.org/alanmartinc) and [**CodePen**](https://codepen.io/alanmartinc)
 
 <br>
 <br>
