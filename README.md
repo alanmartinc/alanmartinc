@@ -8,9 +8,9 @@
 <br>
 <br>
 
-🌱 I’m currently learning **NestJS**.
-
 ➡️ Visit my [**TikTok**](https://www.tiktok.com/@alanmartinc_).
+
+🌱 I’m currently learning **NestJS**.
 
 🤖 Ceo and Software Developer at [**Ibotk**](https://www.ibotk.com/).
 
