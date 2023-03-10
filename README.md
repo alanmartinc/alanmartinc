@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning **NestJS**.
 
-🤖 Ceo and Software Developer at [**Ibotk**](https://www.ibotk.com/).
+🤖 Software Developer at [**Ibotk**](https://www.ibotk.com/).
 
 📰 Take a look at my posts on [**Hashnode**](https://alanmartincabot.hashnode.dev/) and [**Dev.to**](https://dev.to/alanmartinc).
 
