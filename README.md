@@ -10,6 +10,8 @@
 
 🌱 I’m currently learning **NestJS**.
 
+➡️ Visit my [**TikTok**](https://www.tiktok.com/@alanmartinc_).
+
 🤖 Ceo and Software Developer at [**Ibotk**](https://www.ibotk.com/).
 
 📰 Take a look at my posts on [**Hashnode**](https://alanmartincabot.hashnode.dev/) and [**Dev.to**](https://dev.to/alanmartinc).
