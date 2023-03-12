@@ -8,9 +8,9 @@
 <br>
 <br>
 
-💼 Read my [**Resume**](https://read.cv/alanmartinc).
-
 ➡️ Visit my [**TikTok**](https://www.tiktok.com/@alanmartinc_).
+
+💼 Read my [**Resume**](https://read.cv/alanmartinc).
 
 🌱 I’m currently learning **NestJS**.
 
