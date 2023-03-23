@@ -51,7 +51,6 @@
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F48224?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://es.stackoverflow.com/users/320391/alan-martín-cabot)](https://es.stackoverflow.com/users/320391/alan-martín-cabot)&nbsp;
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=white&link=https://alanmartincabot.hashnode.dev/)](https://alanmartincabot.hashnode.dev/)&nbsp;
 [![Devto](https://img.shields.io/badge/-Devto-000000?style=for-the-badge&logo=Devto&logoColor=white&link=https://dev.to/alanmartinc)](https://dev.to/alanmartinc)&nbsp;
-[![SoloLearn](https://img.shields.io/badge/-SoloLearn-F9F9FA?style=for-the-badge&logo=SoloLearn&logoColor=white&link=https://www.sololearn.com/profile/6779086)](https://www.sololearn.com/profile/6779086)&nbsp;
   
 </div>
 
