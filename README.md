@@ -46,7 +46,6 @@
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/alanmartinc)](https://www.codewars.com/users/alanmartinc)&nbsp;
 [![CodePen](https://img.shields.io/badge/-CodePen-1E1F25?style=for-the-badge&logo=CodePen&logoColor=white&link=https://codepen.io/alanmartinc)](https://codepen.io/alanmartinc)&nbsp;
 [![CodeSandbox](https://img.shields.io/badge/-CodeSandbox-D4F14D?style=for-the-badge&logo=CodeSandbox&logoColor=white&link=https://codesandbox.io/u/alanmartinc)](https://codesandbox.io/u/alanmartinc)&nbsp;
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-1b1b32?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=https://www.freecodecamp.org/alanmartinc)](https://www.freecodecamp.org/alanmartinc)&nbsp;
 <br>
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-F48224?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://es.stackoverflow.com/users/320391/alan-martín-cabot)](https://es.stackoverflow.com/users/320391/alan-martín-cabot)&nbsp;
 [![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=for-the-badge&logo=Hashnode&logoColor=white&link=https://alanmartincabot.hashnode.dev/)](https://alanmartincabot.hashnode.dev/)&nbsp;
