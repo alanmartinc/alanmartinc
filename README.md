@@ -39,7 +39,6 @@
 <div align = "center"> 
 
 [![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)&nbsp;
-[![Linktree](https://img.shields.io/badge/-Linktree-3DD95B?&style=for-the-badge&logo=linktree&logoColor=white&link=https://linktr.ee/alanmartinc)](https://linktr.ee/alanmartinc)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-65BFCE?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alanmartinc)](https://www.frontendmentor.io/profile/alanmartinc)&nbsp;
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white&link=https://www.tiktok.com/@alanmartinc_)](https://www.tiktok.com/@alanmartinc_)&nbsp;
 <br>
