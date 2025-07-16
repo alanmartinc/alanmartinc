@@ -10,13 +10,9 @@
 
 ➡️ Visit my [**TikTok**](https://www.tiktok.com/@alanmartinc_).
 
-💼 Read my [**Resume**](https://read.cv/alanmartinc).
-
 🌱 I’m currently learning **NestJS**.
 
-🤖 Software Developer at [**Ibotk**](https://www.ibotk.com/).
-
-📰 Take a look at my posts on [**Hashnode**](https://alanmartincabot.hashnode.dev/) and [**Dev.to**](https://dev.to/alanmartinc).
+📰 Take a look at my posts on [**Dev.to**](https://dev.to/alanmartinc).
 
 🦾 Take a look at my solutions on [**Codewars**](https://www.codewars.com/users/alanmartinc).
 
@@ -26,28 +22,11 @@
 
 🎯 I’m currently working on [**Accenture**](https://www.accenture.com/ar-es) and  [**Coderhouse**](https://www.coderhouse.com/).
 
-🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc), [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/index.html), [**CodePen**](https://codepen.io/alanmartinc) and [**CodeSandbox**](https://codesandbox.io/u/alanmartinc).
+🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc), [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/index.html)
 
 <br>
 <br>
 <br>
-
----
-
-<h3 align="center">📫 Connect with me</h3>
-
-<div align = "center"> 
-
-[![Linkedin](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alan-cabot)](https://www.linkedin.com/in/alan-cabot/)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-65BFCE?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alanmartinc)](https://www.frontendmentor.io/profile/alanmartinc)&nbsp;
-[![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=TikTok&logoColor=white&link=https://www.tiktok.com/@alanmartinc_)](https://www.tiktok.com/@alanmartinc_)&nbsp;
-<br>
-[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/alanmartinc)](https://www.codewars.com/users/alanmartinc)&nbsp;
-<br>
-[![StackOverflow](https://img.shields.io/badge/-StackOverflow-F48224?style=for-the-badge&logo=StackOverflow&logoColor=white&link=https://es.stackoverflow.com/users/320391/alan-martín-cabot)](https://es.stackoverflow.com/users/320391/alan-martín-cabot)&nbsp;
-[![Devto](https://img.shields.io/badge/-Devto-000000?style=for-the-badge&logo=Devto&logoColor=white&link=https://dev.to/alanmartinc)](https://dev.to/alanmartinc)&nbsp;
-  
-</div>
 
 ---
 
