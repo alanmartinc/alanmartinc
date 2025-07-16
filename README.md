@@ -24,10 +24,6 @@
 
 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/alanmartinc), [**Portfolio**](https://portfolio-alan-martin-cabot.netlify.app/index.html).
 
-<br>
-<br>
-<br>
-
 ---
 
 **UX Developer:** 
